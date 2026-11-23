@@ -1,0 +1,67 @@
+# Company careers boards to collect from, grouped by the hiring system (ATS) they use.
+# Find a company's board name in its careers URL, e.g.:
+#   boards.greenhouse.io/<name> · jobs.lever.co/<name> · jobs.ashbyhq.com/<name> · jobs.smartrecruiters.com/<name>
+# Add a line, run `python run.py collect`; bad names are reported and skipped. All entries below were verified
+# on 2026-11-22 to have openings in India or remote.
+companies:
+  greenhouse:
+    - databricks
+    - okta
+    - purestorage
+    - mongodb
+    - cloudflare
+    - elastic
+    - stripe
+    - rubrik
+    - samsara
+    - highradius
+    - gitlab
+    - twilio
+    - toast
+    - razorpaysoftwareprivatelimited
+    - fivetran
+    - coinbase
+    - hackerrank
+    - gleanwork
+    - datadog
+    - airbnb
+    - sumologic
+    - druva
+    - groww
+    - anthropic
+    - observeai
+    - newrelic
+    - figma
+    - instacart
+    - scaleai
+    - pinterest
+    - lyft
+  lever:
+    - paytm
+    - meesho
+    - hevodata
+    - zeta
+    - mindtickle
+    - netomi
+    - cred
+    - spotify
+  ashby:
+    - supabase
+    - sarvam
+    - harvey
+    - elevenlabs
+    - openai
+    - cohere
+    - notion
+    - anyscale
+    - composio
+    - atlan
+    - perplexity
+    - ramp
+    - langchain
+    - writer
+    - neon
+  smartrecruiters:
+    - ServiceNow
+    - Freshworks
+    - Swiggy

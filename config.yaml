@@ -1,0 +1,6 @@
+# Your search preferences. Fill these in (they override anything inferred from the resume).
+target_roles: []            # e.g. ["Data Engineer", "Backend Developer"]
+locations: []               # e.g. ["Bangalore", "Hyderabad", "Remote-India"]
+experience_years: null      # e.g. 4  (null = use the value parsed from the resume)
+min_salary_lpa: null        # e.g. 18
+resume_path: resume.pdf
